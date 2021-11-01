@@ -1,4 +1,3 @@
-import re
 from tkinter import *
 from tkinter import font
 import keyboard, time, random
